@@ -1,6 +1,7 @@
 [package]
 name = "magicalstick"
 description = "さなボタンの音声ファイル周りをいろいろやるツールです"
+homepage = "http://sanabutton.ojaru.jp"
 repository = "https://github.com/idolactivities/magicalstick-rs"
 license = "MIT"
 version = "0.0.1"

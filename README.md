@@ -6,3 +6,5 @@
 # インストール
 
 `cargo install magicalstick`
+
+[1]: https://github.com/himanoa/magicalstick
