@@ -4,11 +4,13 @@ description = "さなボタンの音声ファイル周りをいろいろやる�
 homepage = "http://sanabutton.ojaru.jp"
 repository = "https://github.com/idolactivities/magicalstick-rs"
 license = "MIT"
-version = "0.0.1"
+version = "0.0.2"
 authors = ["Musee Ullah <lae@lae.is>"]
 
 [dependencies]
 reqwest = "0.8.6"
 scraper = "0.7.0"
 url = "1.7.0"
+clap = { version = "2.31.2", features = ["yaml"] }
 error-chain = "0.11.0"
+try_print = "0.0.1"
