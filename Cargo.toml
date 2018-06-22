@@ -1,0 +1,13 @@
+[package]
+name = "magicalstick"
+description = "さなボタンの音声ファイル周りをいろいろやるツールです"
+repository = "https://github.com/idolactivities/magicalstick-rs"
+license = "MIT"
+version = "0.0.1"
+authors = ["Musee Ullah <lae@lae.is>"]
+
+[dependencies]
+reqwest = "0.8.6"
+scraper = "0.7.0"
+url = "1.7.0"
+error-chain = "0.11.0"
